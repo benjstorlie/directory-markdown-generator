@@ -1,4 +1,6 @@
 /** 
+ * @fileoverview (2023-08-18) Generates a markdown document with a list of the directory's folders and files, with links. You can include comments that will be saved on refresh.  
+ * @author Ben J Storlie <benjstorlie@gmail.com> (http://benjstorlie.github.io)
  * Run `node dir.js` in the terminal to generate a markdown document with a list of your directory's contents, including links. Run it again to refresh.
  * In VSCode, clicking those links will either open the file, or open the folder in the explorer sidebar.
  * In the generated document, you can add comments by adding a colon and space after the file link.
