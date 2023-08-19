@@ -6,4 +6,5 @@
 	- [example-file.txt](example-folder/example-file.txt): This is a blank text file.
 - [dir.js](dir.js)
 - [directory_contents.md](directory_contents.md): Here is this file itself. You can include `mdName` in the `ignore` array if you'd like.
+- [package.json](package.json)
 - [README.md](README.md)
