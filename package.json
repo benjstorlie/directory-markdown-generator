@@ -1,0 +1,22 @@
+{
+  "name": "directory-markdown-generator",
+  "version": "1.0.0",
+  "description": "Generates a markdown",
+  "main": "dir.js",
+  "scripts": {
+    "start": "node dir.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjstorlie/directory-markdown-generator.git"
+  },
+  "keywords": [
+    "directory"
+  ],
+  "author": "Ben J Storlie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjstorlie/directory-markdown-generator/issues"
+  },
+  "homepage": "https://github.com/benjstorlie/directory-markdown-generator#readme"
+}
