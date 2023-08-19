@@ -7,6 +7,7 @@
  * If there are any comments that weren't included, due to a deleted file or change in file structure, those comments will go in a section at the top for you to handle manually.
  * Edit @see mdName to make a custom name for your generated document.
  * Edit @see ignore and @see ignoreContents to list files or folders to ignore
+ * Since it writes the markdown from scratch each time, you can't add anything else to the document or it won't be saved on refresh.
  * @example [fileName](path/to/fileName): Comment here.
 */
 

@@ -1,19 +1,21 @@
 {
   "name": "directory-markdown-generator",
   "version": "1.0.0",
-  "description": "Generates a markdown",
+  "description": "Generates a markdown document with a list of the directory's folders and files, with links. You can include comments that will be saved on refresh.",
   "main": "dir.js",
   "scripts": {
-    "start": "node dir.js"
+    "start": "node dir.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benjstorlie/directory-markdown-generator.git"
+    "url": "https://github.com/benjstorlie/directory-markdown-generator.git"
   },
   "keywords": [
-    "directory"
+    "file structure",
+    "collaborative"
   ],
-  "author": "Ben J Storlie",
+  "author": "Ben J Storlie <benjstorlie@gmail.com> (http://benjstorlie.github.io)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/benjstorlie/directory-markdown-generator/issues"
