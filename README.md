@@ -13,3 +13,8 @@ Generates a markdown document with a list of the directory's folders and files, 
  * Edit `ignore` and `ignoreContents` to list files or folders to ignore
  * Since it writes the markdown from scratch each time, you can't add anything else to the document or it won't be saved on refresh.
 
+## Developer's Note
+
+I am using this project as an exercise in making a complete npm module that someone could install. I have not finished yet, but I think this is small enough in scope that I can focus on just making a complete and functional project with really good documentation.
+
+I do need to work on changing those parts that require the user to actually edit the script.
